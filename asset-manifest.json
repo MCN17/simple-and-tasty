@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simple-and-tastey/static/css/main.2327ac52.css",
-    "main.js": "/simple-and-tastey/static/js/main.f143a1e4.js",
-    "static/js/453.1904a2cd.chunk.js": "/simple-and-tastey/static/js/453.1904a2cd.chunk.js",
-    "static/media/knife.jpg": "/simple-and-tastey/static/media/knife.34bc43920774df573206.jpg",
-    "static/media/brick-background.jpg.jpg": "/simple-and-tastey/static/media/brick-background.jpg.c616148a9d5b39057eaa.jpg",
-    "static/media/logo.svg": "/simple-and-tastey/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/simple-and-tastey/index.html",
-    "main.2327ac52.css.map": "/simple-and-tastey/static/css/main.2327ac52.css.map",
-    "main.f143a1e4.js.map": "/simple-and-tastey/static/js/main.f143a1e4.js.map",
-    "453.1904a2cd.chunk.js.map": "/simple-and-tastey/static/js/453.1904a2cd.chunk.js.map"
+    "main.css": "/simple-and-tasty/static/css/main.dc523240.css",
+    "main.js": "/simple-and-tasty/static/js/main.e2cdd3de.js",
+    "static/js/453.99e239b0.chunk.js": "/simple-and-tasty/static/js/453.99e239b0.chunk.js",
+    "static/media/knife.jpg": "/simple-and-tasty/static/media/knife.34bc43920774df573206.jpg",
+    "static/media/brick-background.jpg.jpg": "/simple-and-tasty/static/media/brick-background.jpg.c616148a9d5b39057eaa.jpg",
+    "static/media/logo.svg": "/simple-and-tasty/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-and-tasty/index.html",
+    "main.dc523240.css.map": "/simple-and-tasty/static/css/main.dc523240.css.map",
+    "main.e2cdd3de.js.map": "/simple-and-tasty/static/js/main.e2cdd3de.js.map",
+    "453.99e239b0.chunk.js.map": "/simple-and-tasty/static/js/453.99e239b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2327ac52.css",
-    "static/js/main.f143a1e4.js"
+    "static/css/main.dc523240.css",
+    "static/js/main.e2cdd3de.js"
   ]
 }
