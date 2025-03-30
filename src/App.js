@@ -14,7 +14,7 @@ function App() {
           </ul>
         </div>
         <div className="banner">
-          <h2>Recipes that are<br></br>Simple and Tastey</h2>
+          <h2>Recipes that are<br></br>Simple and Tasty</h2>
           <button className="viewRecipesBtn">View Recipes</button>
         </div>
      </div>
