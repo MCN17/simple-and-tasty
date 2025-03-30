@@ -7,14 +7,15 @@ function App() {
      <div className="div1">
         <div className="navbar">
           <ul>
-            <li>TEST</li>
-            <li>TEST</li>
-            <li>TEST</li>
-            <li>TEST</li>
+            <li>HOME</li>
+            <li>RECIPES</li>
+            <li>GALLERY</li>
+            <li>CONTACT US</li>
           </ul>
         </div>
         <div className="banner">
-          <h2>RECIPES THAT ARE SIMPLE AND TASTEY</h2>
+          <h2>Recipes that are<br></br>Simple and Tastey</h2>
+          <button className="viewRecipesBtn">View Recipes</button>
         </div>
      </div>
     </div>

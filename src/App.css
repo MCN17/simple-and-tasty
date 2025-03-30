@@ -14,7 +14,7 @@ body {
   margin: auto;
   margin-top: 3rem;
   overflow: hidden;
-  padding: 1rem;
+  padding: 1rem 0rem 1rem 0rem;
 }
 
 .navbar ul {
@@ -23,19 +23,33 @@ body {
   list-style: none;
   display: flex;
   margin: auto;
-  padding: 0px;
+  padding: 0rem 1rem 1rem 1rem;
+}
+
+.navbar ul li {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.banner h2 {
+  font-size: 3rem;
+  color: black;
+  font-family: Abril Fatface;
 }
 
 .banner {
-  font-family: Abril Fatface, cursive;
-  font-size: 42px;
-  color: black;
   height: 40rem;
   background-image: url(/src/assets/images/knife.jpg);
   background-size:cover;
   justify-items: center;
-  display:inline-block;
   align-content: center;
+}
+
+.viewRecipesBtn {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 7px;
 }
 
 
