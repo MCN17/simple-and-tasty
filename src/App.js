@@ -1,25 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
+// import Pages
+import LandingPage  from "./pages/LandingPage";
+import Recipes  from "./pages/Recipes";
 function App() {
+
+
   return (
-    <div className="App">
-     <div className="div1">
-        <div className="navbar">
-          <ul>
-            <li>HOME</li>
-            <li>RECIPES</li>
-            <li>GALLERY</li>
-            <li>CONTACT US</li>
-          </ul>
-        </div>
-        <div className="banner">
-          <h2>Recipes that are<br></br>Simple and Tasty</h2>
-          <button className="viewRecipesBtn">View Recipes</button>
-        </div>
-     </div>
-    </div>
+
+    
+    <Router>
+        <Routes>
+          <Route path="*" element={<LandingPage/>}/>
+          <Route path="/recipes" element={<Recipes/>}/>
+        </Routes>
+  </Router>
   );
-}
+};
 
 export default App;
