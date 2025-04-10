@@ -2,9 +2,6 @@ import React from 'react';
 
 const LandingPage = () => {
     return (
-          // return (
-
-    
     <div className="App">
      <div className="div1">
         <div className="navbar">
